@@ -7,3 +7,15 @@
 ```js 
 var a = {}
 ```
+This is a code block
+
+This is a normal paragraph
+
+    This is a code block
+
+This is a `inline code block`
+
+
+```python
+print("Hello World!")
+```
